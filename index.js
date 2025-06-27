@@ -6,3 +6,4 @@ async function fetchData() {
 }
 
 fetchData();
+console.log("Testing cache hit...");
